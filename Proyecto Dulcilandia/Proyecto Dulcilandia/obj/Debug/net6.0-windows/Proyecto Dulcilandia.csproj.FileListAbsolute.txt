@@ -1,0 +1,19 @@
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\Proyecto Dulcilandia.exe
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\Proyecto Dulcilandia.deps.json
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\Proyecto Dulcilandia.runtimeconfig.json
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\Proyecto Dulcilandia.dll
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\Proyecto Dulcilandia.pdb
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.csproj.AssemblyReference.cache
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto_Dulcilandia.Login.resources
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto_Dulcilandia.Principal.resources
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto_Dulcilandia.Properties.Resources.resources
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.csproj.GenerateResource.cache
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.GeneratedMSBuildEditorConfig.editorconfig
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.AssemblyInfoInputs.cache
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.AssemblyInfo.cs
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.csproj.CoreCompileInputs.cache
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.dll
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\refint\Proyecto Dulcilandia.dll
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.pdb
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.genruntimeconfig.cache
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\ref\Proyecto Dulcilandia.dll
