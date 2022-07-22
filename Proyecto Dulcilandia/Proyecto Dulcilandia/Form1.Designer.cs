@@ -33,6 +33,7 @@
             this.txt2 = new System.Windows.Forms.TextBox();
             this.btn1 = new System.Windows.Forms.Button();
             this.pic1 = new System.Windows.Forms.PictureBox();
+            this.chick1 = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.pic1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -76,11 +77,24 @@
             this.pic1.TabIndex = 3;
             this.pic1.TabStop = false;
             // 
+            // chick1
+            // 
+            this.chick1.AutoSize = true;
+            this.chick1.Font = new System.Drawing.Font("Bahnschrift Condensed", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.chick1.Location = new System.Drawing.Point(12, 279);
+            this.chick1.Name = "chick1";
+            this.chick1.Size = new System.Drawing.Size(151, 26);
+            this.chick1.TabIndex = 4;
+            this.chick1.Text = "Mostrar contraseña";
+            this.chick1.UseVisualStyleBackColor = true;
+            this.chick1.CheckedChanged += new System.EventHandler(this.chick1_CheckedChanged);
+            // 
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(432, 403);
+            this.Controls.Add(this.chick1);
             this.Controls.Add(this.pic1);
             this.Controls.Add(this.btn1);
             this.Controls.Add(this.txt2);
@@ -99,5 +113,6 @@
         private TextBox txt2;
         private Button btn1;
         private PictureBox pic1;
+        private CheckBox chick1;
     }
 }

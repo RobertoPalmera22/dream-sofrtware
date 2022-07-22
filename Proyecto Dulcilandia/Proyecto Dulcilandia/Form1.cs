@@ -7,6 +7,7 @@ namespace Proyecto_Dulcilandia
         public Login()
         {
             InitializeComponent();
+            txt2.UseSystemPasswordChar = true;
         }
 
 
@@ -42,6 +43,18 @@ namespace Proyecto_Dulcilandia
             catch (Exception ex)
             {
                 MessageBox.Show(ex.ToString() + "\nIngrese algo correcto");
+            }
+        }
+
+        private void chick1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (txt2.UseSystemPasswordChar)
+            {
+                txt2.UseSystemPasswordChar = false;
+            }
+            else
+            {
+                txt2.UseSystemPasswordChar = true;
             }
         }
     }

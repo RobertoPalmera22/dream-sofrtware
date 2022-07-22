@@ -131,7 +131,7 @@
             this.Controls.Add(this.btnreg);
             this.Controls.Add(this.panel1);
             this.Name = "Principal";
-            this.Text = "Principal";
+            this.Text = "Menú principal";
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
