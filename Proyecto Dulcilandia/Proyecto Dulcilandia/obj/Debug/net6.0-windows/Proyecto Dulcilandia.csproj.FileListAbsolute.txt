@@ -26,3 +26,31 @@ D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-win
 D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
 D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\ZstdNet.dll
 D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.csproj.CopyComplete
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\Proyecto Dulcilandia.exe
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\Proyecto Dulcilandia.deps.json
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\Proyecto Dulcilandia.runtimeconfig.json
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\Proyecto Dulcilandia.dll
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\Proyecto Dulcilandia.pdb
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.csproj.AssemblyReference.cache
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto_Dulcilandia.Login.resources
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto_Dulcilandia.Principal.resources
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto_Dulcilandia.Properties.Resources.resources
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.csproj.GenerateResource.cache
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.AssemblyInfoInputs.cache
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.AssemblyInfo.cs
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.csproj.CoreCompileInputs.cache
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.csproj.CopyComplete
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.dll
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\refint\Proyecto Dulcilandia.dll
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.pdb
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.genruntimeconfig.cache
+C:\Users\guima\Documents\GitHub\dream-sofrtware\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\ref\Proyecto Dulcilandia.dll

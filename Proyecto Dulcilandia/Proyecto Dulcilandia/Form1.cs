@@ -40,9 +40,9 @@ namespace Proyecto_Dulcilandia
                 }
 
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                MessageBox.Show(ex.ToString() + "\nIngrese algo correcto");
+                MessageBox.Show("Nombre o contraseña incorrecta", "Fallo al iniciar sesión",MessageBoxButtons.OK,MessageBoxIcon.Exclamation);
             }
         }
 

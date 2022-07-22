@@ -853,19 +853,19 @@
   },
   "packageFolders": {
     "C:\\Users\\guima\\.nuget\\packages\\": {},
-    "D:\\Shared\\NuGetPackages": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dream-software\\Proyecto Dulcilandia\\Proyecto Dulcilandia\\Proyecto Dulcilandia.csproj",
+      "projectUniqueName": "C:\\Users\\guima\\Documents\\GitHub\\dream-sofrtware\\Proyecto Dulcilandia\\Proyecto Dulcilandia\\Proyecto Dulcilandia.csproj",
       "projectName": "Proyecto Dulcilandia",
-      "projectPath": "D:\\dream-software\\Proyecto Dulcilandia\\Proyecto Dulcilandia\\Proyecto Dulcilandia.csproj",
+      "projectPath": "C:\\Users\\guima\\Documents\\GitHub\\dream-sofrtware\\Proyecto Dulcilandia\\Proyecto Dulcilandia\\Proyecto Dulcilandia.csproj",
       "packagesPath": "C:\\Users\\guima\\.nuget\\packages\\",
-      "outputPath": "D:\\dream-software\\Proyecto Dulcilandia\\Proyecto Dulcilandia\\obj\\",
+      "outputPath": "C:\\Users\\guima\\Documents\\GitHub\\dream-sofrtware\\Proyecto Dulcilandia\\Proyecto Dulcilandia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\guima\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -918,7 +918,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "knci3RlYCHZY09eIglK9QTeDaUJD55B8Fsh77JiGegu7T4oQumSzUSc+03tJrjBD6AkfLie4iRL3PNWTzcyDwg==",
+  "dgSpecHash": "shhOLnyhdw/viy0hPSKlXTijaq+7X7/bdSTgWIkdXXrb1gETgCYPLXL8IXpnlP1YPKT2V/vHoF25BlBeu/8QKQ==",
   "success": true,
-  "projectFilePath": "D:\\dream-software\\Proyecto Dulcilandia\\Proyecto Dulcilandia\\Proyecto Dulcilandia.csproj",
+  "projectFilePath": "C:\\Users\\guima\\Documents\\GitHub\\dream-sofrtware\\Proyecto Dulcilandia\\Proyecto Dulcilandia\\Proyecto Dulcilandia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guima\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\guima\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
