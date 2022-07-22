@@ -17,3 +17,12 @@ D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-win
 D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.pdb
 D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.genruntimeconfig.cache
 D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\ref\Proyecto Dulcilandia.dll
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\dream-software\Proyecto Dulcilandia\Proyecto Dulcilandia\obj\Debug\net6.0-windows\Proyecto Dulcilandia.csproj.CopyComplete

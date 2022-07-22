@@ -15,6 +15,7 @@ namespace Proyecto_Dulcilandia
         public Principal()
         {
             InitializeComponent();
+            MaximizeBox = false;
         }
     }
 }

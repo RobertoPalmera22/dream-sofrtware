@@ -59,10 +59,11 @@
             this.btn1.Font = new System.Drawing.Font("Bahnschrift Condensed", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.btn1.Location = new System.Drawing.Point(12, 329);
             this.btn1.Name = "btn1";
-            this.btn1.Size = new System.Drawing.Size(225, 45);
+            this.btn1.Size = new System.Drawing.Size(408, 45);
             this.btn1.TabIndex = 2;
             this.btn1.Text = "Acceder";
             this.btn1.UseVisualStyleBackColor = true;
+            this.btn1.Click += new System.EventHandler(this.btn1_Click);
             // 
             // pic1
             // 
